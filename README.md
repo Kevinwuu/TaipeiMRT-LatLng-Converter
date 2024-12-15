@@ -12,6 +12,9 @@ Using the Google Geocoding API to convert Taipei MRT latitude and longitude data
 
 Source data is from `data.xlsx`.
 
+![image](https://github.com/user-attachments/assets/c732496a-88da-448f-872b-926822f81701)
+
+
 ## Getting Started
 
 1. Install dependency
